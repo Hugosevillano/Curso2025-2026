@@ -46,7 +46,7 @@ for r in result:
 ## Validation: Do not remove
 report.validate_07_1a(result)
 
-"""**TASK 7.1b: Repeat the same exercise in SPARQL, returning the variables ?c (class) and ?sc (superclass)**"""
+"""**TASK 7.1b: Repeat  the same exercise in SPARQL, returning the variables ?c (class) and ?sc (superclass)**"""
 
 query =  """
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>

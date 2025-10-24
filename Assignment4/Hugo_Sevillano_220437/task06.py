@@ -65,7 +65,7 @@ for s, p, o in g:
 # Validation. Do not remove
 r.validate_task_06_01(g)
 
-"""**TASK 6.2: Add the 3 properties shown in slide 36. Add labels for each of them (exactly as they are in the slide, with no language tags), and their corresponding domains and ranges using RDFS. Remember adding the correct datatype (xsd:String) when appropriate. If a property has no range, make it a literal (string)**"""
+"""**TASK 6.2: Add  the 3 properties shown in slide 36. Add labels for each of them (exactly as they are in the slide, with no language tags), and their corresponding domains and ranges using RDFS. Remember adding the correct datatype (xsd:String) when appropriate. If a property has no range, make it a literal (string)**"""
 
 # TO DO
 props = [
